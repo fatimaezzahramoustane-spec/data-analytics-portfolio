@@ -24,3 +24,6 @@ The dataset contains fictional order information created for portfolio and learn
 
 ## Project Type
 Practical Data Analysis Project
+## Project Screenshot
+
+![Online Orders Analysis](Captura%20de%20pantalla%202026-11-18%20122849.png)
