@@ -1,4 +1,4 @@
-# Hi, I'm Fatima 👋
+# Hi, I'm Fatima 
 
 ### Aspiring Data Analyst | Business Intelligence Student
 
